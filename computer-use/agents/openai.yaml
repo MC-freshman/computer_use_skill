@@ -1,0 +1,3 @@
+display_name: Computer Use
+short_description: Operate Windows GUI from screenshots
+default_prompt: Use this skill to observe and operate Windows desktop apps with safe coordinate-based GUI actions.
